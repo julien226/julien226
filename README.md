@@ -1,5 +1,5 @@
 - Hi, I’m @julien226
-- Relevant interests: aerodynamics, CFD, meshing, fluid mechanics, 3d printing
+- Interests: aerodynamics, CFD, meshing, fluid mechanics, 3d printing
 - Some of my personal projects are on here
 - You can reach me via email on julienbassil@gmail.com or discord on julien226#7947
 
